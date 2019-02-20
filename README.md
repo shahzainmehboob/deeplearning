@@ -1,1 +1,1 @@
-# Deep-Learning-Image-Classification
+# AlexNet Image Classification
